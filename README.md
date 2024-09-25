@@ -17,11 +17,13 @@ Esta aplicación utiliza un modelo de mezcla gaussiana y la API de Spotify para 
 
 - Python 3.9
 - Cuenta de desarrollador de Spotify para obtener las credenciales de la API.
+- Cuenta de desarrollador de Spotify para obtener las credenciales de la API.
 - Archivo `.env` con tus credenciales de Spotify:
 
-```env
-SPOTIFY_CLIENT_ID=tu_spotify_client_id
-SPOTIFY_CLIENT_SECRET=tu_spotify_client_secret
+    ```env
+    SPOTIFY_CLIENT_ID=tu_spotify_client_id
+    SPOTIFY_CLIENT_SECRET=tu_spotify_client_secret
+    ```
 
 ## Instalacion
 1.- Clona este repositorio
