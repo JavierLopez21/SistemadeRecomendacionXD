@@ -26,9 +26,8 @@ Esta aplicación utiliza un modelo de mezcla gaussiana y la API de Spotify para 
 
 ## Instalacion
 1.- Clona este repositorio
-- git clone https://github.com/tuusuario/sistema-recomendacion-musica.git
-- cd sistema-recomendacion-musica
-
+- git clone https://github.com/JavierLopez21/SistemadeRecomendacionXD.git
+- cd SistemadeRecomendacionXD
 2.- Crea un entorno virtual y activalo
 
 - python -m venv env
