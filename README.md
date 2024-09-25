@@ -17,7 +17,6 @@ Esta aplicación utiliza un modelo de mezcla gaussiana y la API de Spotify para 
 
 - Python 3.9
 - Cuenta de desarrollador de Spotify para obtener las credenciales de la API.
-- Cuenta de desarrollador de Spotify para obtener las credenciales de la API.
 - Archivo `.env` con tus credenciales de Spotify:
 
     ```env
