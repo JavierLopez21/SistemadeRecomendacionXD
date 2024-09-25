@@ -66,4 +66,4 @@ if st.button("Recomendar"):
         st.write("❌ Canción no encontrada. Intente con otro nombre o artista.")
 
 # Mensaje de pie de página
-st.markdown("<footer style='text-align: center;'>Hecho con ❤️ por [Tu Nombre]</footer>", unsafe_allow_html=True)
+st.markdown("<footer style='text-align: center;'>Hecho con ❤️ por [Javier]</footer>", unsafe_allow_html=True)
